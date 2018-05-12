@@ -1,0 +1,31 @@
+_repo: Hymns-in-the-Chinook-Jargon-Language_33105
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eells, Myron
+    aliases:
+    - Eells, M. (Myron)
+    - Eels, M. (Myron)
+    birthdate: 1843
+    deathdate: 1907
+    gutenberg_agent_id: '36206'
+    url: http://www.gutenberg.org/2009/agents/36206
+description: ''
+gutenberg_issued: '2010-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33105'
+  lccn: '05042763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Chinook jargon -- Texts'
+- !lcsh 'Hymns, Chinook jargon'
+title: Hymns in the Chinook Jargon Language
+url: http://www.gutenberg.org/ebooks/33105
